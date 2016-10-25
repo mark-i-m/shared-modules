@@ -3,7 +3,7 @@ written in [Chisel](https://chisel.eecs.berkeley.edu/).
 
 Note: I am using Chisel 2.2
 
-To build: `make build`
+To build: `make`
 
 # Index
 
