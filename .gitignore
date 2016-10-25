@@ -1,0 +1,8 @@
+project
+target
+RegFile
+*.h
+*.o
+*.cpp
+*.vcd
+*.out
